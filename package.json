@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-rax-jsx-class",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add a __class prop to all JSX Elements",
   "main": "index.js",
   "scripts": {
